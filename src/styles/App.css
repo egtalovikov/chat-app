@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  background-color: #2e82d6;
+  color: #FFF;
+  text-transform: uppercase;
+  padding: 0 1rem;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0;
+}

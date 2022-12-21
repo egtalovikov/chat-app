@@ -1,0 +1,60 @@
+.messages-card {
+    display: flex;
+    flex-direction: column;
+}
+
+.message-box {
+    display: flex;
+    align-items: flex-end;
+}
+
+.message-box .username {
+    font-size: .7rem;
+    padding: 2px 5px;
+    color: grey;
+}
+
+.message-box .message {
+    width: fit-content;
+    margin-bottom: 8px;
+    padding: .4rem .8rem;
+    background: rgb(255, 255, 255);
+}
+
+.message-box .message .message-text {
+    font-size: .9rem;
+}
+
+.message-box .message .message-time {
+    font-size: .5rem;
+    color: #B5B6B8;
+}
+
+.message-box-left .message {
+    border-radius: 10px 10px 10px 0;
+}
+
+.message-box-right {
+    flex-direction: row-reverse;
+    margin-left: 2rem;
+}
+
+.message-box-right .message {
+    background: #2E82D6;
+    border-radius: 10px 10px 0px 10px;
+    color: #fff;
+}
+
+.message-box-right .message .message-time {
+    color: #A3CEF8;
+}
+
+.message-box-right {
+    align-self: flex-end;
+}
+
+.message-box-right .message-time,
+.message-box-right .username,
+.message-box-right .username {
+    text-align: right;
+}
