@@ -42,7 +42,7 @@ Chat App - это тестовое задание от компании [Fronten
 
 * Склонировать репозиторий
 ```
-git clone https://github.com/egtalovikov/mesto-react.git
+git clone https://github.com/egtalovikov/chat-app.git
 ```
 * Выполнить команду
 ```
