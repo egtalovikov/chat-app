@@ -8,6 +8,10 @@
 
 Chat App - это тестовое задание от компании [Frontend Production](https://frontendproduction.com/ru/ "Frontend Production").
 
+**Ссылка на проект: [GitHub Pages](https://egtalovikov.github.io/chat-app)**
+
+![Watch the video](./public/preview.gif)
+
 ## Описание
 
 Чат для очень одиноких людей с возможностью авторизации. Пользователь может открыть 2 (или больше) вкладки в браузере, ввести разные имена и начать активную дискуссию.
